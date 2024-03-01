@@ -1,7 +1,6 @@
 $(document).ready(function() {
 	$('#btnDelete').click(deleteTown);
 	$('#btnShuffle').click(shuffleTowns);
-	$('#btnDelete').click(deleteTown)
 	$('#btnAdd').click(addTown);
 });
 
